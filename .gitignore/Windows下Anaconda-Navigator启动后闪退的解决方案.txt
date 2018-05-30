@@ -1,0 +1,6 @@
+1、使用管理员运行：conda prompt
+2、执行命令 conda update anaconda-navigator
+3、执行anaconda-navigator --reset
+4、执行conda update anaconda-client
+5、执行conda update -f anaconda-client
+-->直接重启anaconda-navigator即可
